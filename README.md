@@ -4,8 +4,8 @@
 ## Sobre Mim 👨‍💼
 ```
 * Tecnólogo em Análise e Desenvolvimento de Sistemas (IFPR/FOZ DO IGUAÇU ~2022).
-* Com disponibilidade para aprender com a empresa como desenvolvedor web e adquirir experiência em projeto,
-  instalação, teste e manutenção de sistemas, bem como a colaborar como parte de uma equipe produtiva.
+* Disponível para aprender com a empresa como desenvolvedor web e adquirir experiência em projetos,
+  testes e manutenção de sistemas, bem como colaborar como parte da equipe.
 * Responsabilidade e espírito de equipe.
 * Interesse em aprender mais sobre tecnologia e desenvolvimento.
 ```
