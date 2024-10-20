@@ -19,6 +19,6 @@
 
 <h3 align="left">Conecte-se a mim:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/humbertoluiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humbertoluiz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/humbertoluizmaia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humbertoluiz" height="30" width="40" /></a>
 <a href="https://instagram.com/kaos_132?igshid=1j02dm9roql72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaos_132?igshid=1j02dm9roql72" height="30" width="40" /></a>
 </p>
